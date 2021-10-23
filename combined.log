@@ -1,0 +1,489 @@
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"81fcd3b0-51b8-487a-b39d-e2affe66a842 POST / 404 1.731 ms"}
+{"level":"info","message":"8420c4e7-3520-42c8-9af1-9d8cef076119 POST / 404 0.547 ms"}
+{"level":"info","message":"2c3b6bf2-02b6-48ae-b4fd-9393f8207594 POST /publish/hello%20world 404 0.610 ms"}
+{"level":"info","message":"892cb43c-d809-4b59-af3c-f4ff727d0af9 POST /publish/topic1 404 0.398 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"b50c773e-800a-4af2-90cf-c1871cfd6aa7 POST /publish/topic1 404 2.768 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"a90f3925-4431-4d59-89c6-946593aa4753 POST /publish/topic1 404 3.081 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"0d6bdcc0-d933-4147-a370-4b2e1404e33f POST /publish/topic1 404 3.264 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"b896a436-07d7-4a56-8ad7-2711df33bd17 POST /publish/topic1 404 3.547 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"c8cacc53-7669-4953-bacc-82b470236134 POST /publish/topic1 404 3.406 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"377076f3-6230-4f1c-9bf2-cfa07e1f0c12 POST /publish/topic1 404 2.621 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"ba619660-4b8f-4332-a8bf-302bd19f5068 POST /publish/topic1 404 3.298 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"0b79b1b8-a0c0-44d0-b9e4-442a64bbfc83 POST /publish/topic1 404 4.136 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"bdc2e05b-6aaf-4608-a90c-848f49b0abd8 POST /publish/topic1 404 3.231 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"f9363916-d788-4bad-b76f-dd9fdb0072ca POST /publish/topic1 404 2.830 ms"}
+{"level":"info","message":"8f8c9675-8279-4bc5-bfc1-e5864490cbfa POST /api/publish/topic1 404 1.658 ms"}
+{"level":"info","message":"1cf2e0e4-dfb7-4c4d-ae85-e3569f12f803 POST /api/publish/topic1 404 0.760 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"daa2c92b-0c87-4956-97ad-a1f4fb2d5189 POST /api/publish/topic1 404 3.656 ms"}
+{"level":"info","message":"9bb405be-3089-455a-be7a-ded4b213fd7f GET /api/publish/topic1 404 0.867 ms"}
+{"level":"info","message":"1e0ec262-cc42-43f7-899c-41e1f951b241 GET / 404 0.290 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"8814ddeb-1372-42b7-a9ba-d0db5f10ffa5 GET / 404 2.448 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"f709bace-f99e-4491-a0e2-bc83c0739ba2 GET / 404 2.409 ms"}
+{"level":"info","message":"2d620033-a495-4349-b4f0-795a77197271 GET / 404 0.387 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"e5179236-cbf1-4f2a-8bd7-85e1ba5862f3 GET / 404 1.933 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"3ebba88f-a8b1-4b1f-b1c7-a49fbb68b650 GET /dddd 404 2.375 ms"}
+{"level":"info","message":"03ccfe09-80da-4873-9c9b-347e11267cd1 GET /dddd 404 0.411 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"86b550fd-be48-460d-a1d5-caadbe110fc1 GET /dddd 404 2.756 ms"}
+{"level":"info","message":"e1a35077-da2d-4bd5-928b-0135edfb2cd8 GET /publish/3ee 404 0.504 ms"}
+{"level":"info","message":"0f6396cf-3eac-44cd-acf3-c5cb85c09891 GET /api/publish/3ee 404 1.540 ms"}
+{"level":"info","message":"8196ff1f-0ed6-4b7a-9341-0fe5be3822c0 POST /api/publish/3ee 404 0.772 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"5c1ad70b-1187-4bb8-9d0d-0bdeb4d7a646 POST /publish/hello 404 9.019 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"cfb6c240-10ea-44c9-9330-5f1aa367bdd6 POST /publish/hello 404 11.763 ms"}
+{"level":"info","message":"143ac542-912e-4252-8364-4ccc13406226 POST /publish/hello 404 0.671 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"f2939d0b-00f3-4cd1-bb1f-0917ad76ace0 POST /publish/hello 404 9.707 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"417c5854-6b59-4159-97b2-ad0d7d75af01 POST /publish/hello 200 9.254 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"56f30239-9f86-455a-967c-f142ac826a07 POST /publish/hello 404 14.062 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"cb58287e-a3fa-4b1c-8877-b221b757e495 POST /publish/hello 404 8.771 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"3b81d86e-f103-41f9-bc41-b4422456b5a3 POST /hello 404 1.411 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"e04445d1-14d9-4c01-8e40-a627b80d8195 POST /hello 404 3.322 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"ba7514a7-f06a-4e48-a495-643ac4abc416 POST /hello 404 2.465 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"d9da8b81-5bee-494e-9a35-788f291cfa75 POST /subscribe/Hello%20World 500 4.000 ms"}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"71eda7d1-5991-43b9-9a8c-7dbf7b8f47b8 POST /subscribe/Hello%20World 500 1.064 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"e3266ee8-3510-40b0-a5dc-e2bdc4226ba8 POST /subscribe/Hello%20World 500 6.359 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"30e7eaa0-32e7-4d69-8db8-0fe562caf50d POST /subscribe/Hello%20World 500 16.853 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"b4ac30cb-f484-4a27-9b77-7373c671b436 POST /subscribe/Hello%20World 500 13.815 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"a0fcc840-5ce5-478f-b47a-88b0a2854956 POST /subscribe/Hello%20World 201 12.165 ms"}
+{"level":"info","message":"bac40409-ac0a-4eae-8f7d-dea05c8b2ea3 POST /subscribe/Hi%20World 201 1.334 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"22e584b0-083c-4bcb-a79e-07789c864a75 POST /subscribe/Hi%20World 201 17.656 ms"}
+{"level":"info","message":"42cb7961-819a-4150-ac78-5251d1393037 POST /subscribe/Hello%20world 201 1.222 ms"}
+{"level":"info","message":"8cd79c7b-00e6-4adb-9810-966589247606 POST /subscribe/Prosper 201 0.778 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"a2fde03e-43b6-44fb-90d9-29f3a6aca696 POST /subscribe/Prosper 201 16.264 ms"}
+{"level":"info","message":"f2e05ac2-b7bf-4c08-afc8-cf6ad7bbd648 POST /subscribe/Prosper 201 0.862 ms"}
+{"level":"info","message":"ac64d634-441c-4fe3-8727-11a27c3df91a POST /subscribe/arsenal 201 0.630 ms"}
+{"level":"info","message":"cc37ea03-ca5d-4ba5-96b5-4d8640b1e12d POST /subscribe/Prosper 201 0.669 ms"}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"6764a2e3-30da-43fc-acbe-f88202b8b5ca POST /publish/Prosper 500 0.792 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"8ff4e9d0-1052-4e02-bdc4-cdf899c5c235 POST /publish/Prosper 500 4.213 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"ef93e28a-d677-4d53-8f67-68a85016a2ce POST /publish/Prosper 200 4.557 ms"}
+{"level":"info","message":"81574942-d2eb-48be-a807-85bf1061cf80 POST /subscribe/Prosper 201 12.878 ms"}
+{"level":"info","message":"1e97ae1f-eb19-4807-a6a7-03455d3b5603 POST /subscribe/Prosper 201 0.849 ms"}
+{"level":"info","message":"b3342661-7b01-4280-b651-3dd0f433653c POST /subscribe/Prosper 201 0.559 ms"}
+{"level":"info","message":"3a94bcfd-85e8-4e23-ab88-36695627a0e1 POST /publish/Prosper 400 3.788 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"1c4b35d2-9e1f-4a3b-a6b3-dc9ce77fd3f5 POST /publish/Prosper 200 4.692 ms"}
+{"level":"info","message":"45982293-2d56-4eb3-83a0-5b5a1533aaa2 POST /subscribe/Prosper 201 8.172 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"2eca497b-a15b-46b0-9b5f-c7325550852e POST /subscribe/Prosper 201 10.611 ms"}
+{"level":"info","message":"2e507352-1762-400d-bf15-a6d11f1ec71d POST /publish/Prosper 400 2.985 ms"}
+{"level":"info","message":"4e477574-6e9f-4aeb-b757-d3b1f29ae16f POST /subscribe/Prosper 201 1.219 ms"}
+{"level":"info","message":"27323925-aba6-4095-9205-6cdbd46a0ded POST /subscribe/Prosper 201 0.706 ms"}
+{"level":"info","message":"47fd609e-1438-41f5-897f-54c205bd4228 POST /subscribe/Prospers 201 0.615 ms"}
+{"level":"info","message":"bd33a026-401c-4a01-8e94-d7975509a8f0 POST /publish/Prosper 400 1.822 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"61e9b8d6-53d7-461c-8410-6e0754d3c489 POST /subscribe/Prosper 201 10.753 ms"}
+{"level":"info","message":"84480233-1ee9-4c14-a2b6-d7825840285b POST /subscribe/Prosper 201 1.203 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"78a5241a-7141-47c3-ad9b-65199a7a806a POST /subscribe/Prosper 201 12.058 ms"}
+{"level":"info","message":"7da68ec1-ceed-49f9-b737-68a590f5acdd POST /subscribe/Prosper 201 1.403 ms"}
+{"level":"info","message":"8f560f22-6aa1-431f-8e20-25d7f0efdca5 POST /publish/Prosper 200 2.526 ms"}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"5b850d8f-4238-4967-871c-00ae03458e1e POST /hello 200 3.269 ms"}
+{"level":"info","message":"7ad0bb71-751a-45c3-8eb0-fbe06d65ba38 POST /hello 200 11.984 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"a782e165-e09b-4940-b77f-e8585a697f3a POST /hello 200 11.302 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"09338cb6-d34b-4182-b58d-a13b87def0dd POST /subscribe/Prosper 201 10.627 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"bac5dd8b-f6b6-4a68-9923-39adfa103f38 POST /subscribe/Prosper 201 9.657 ms"}
+{"level":"info","message":"102f156a-f5b3-4b6c-8493-1f7a2b7866b5 POST /publish/Prosper 400 98.295 ms"}
+{"level":"info","message":"Listening on: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Listening on: 8000. "}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"2173a5eb-f15c-4a0d-ad0d-168abd18ba63 POST /subscribe/topic1 201 26.299 ms"}
+{"level":"info","message":"773ec9de-426e-4d0a-9c0f-e0b75a6cfb6c POST /subscribe/topic2 201 0.926 ms"}
+{"level":"info","message":"e7e2f36f-7fb8-4925-9564-510899bba4ab POST /test1 200 10.789 ms"}
+{"level":"info","message":"4a5f6eeb-4017-44f2-8522-f5a75b4e8972 POST /publish/topic1 400 31.065 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"1288c428-2906-434d-9379-c63f6521039b POST /publish/topic1 200 3.902 ms"}
+{"level":"info","message":"d2bff5a8-8046-49b3-bf93-749900d694d1 POST /subscribe/topic2 201 7.266 ms"}
+{"level":"info","message":"eaf92535-3d9c-4c70-9471-5dad682bed0e POST /subscribe/topic1 201 0.973 ms"}
+{"level":"info","message":"52c95179-f333-42de-8a35-aba9f2eb1bb7 POST /subscribe/topic1 201 0.621 ms"}
+{"level":"info","message":"24ebd307-f1d5-4741-bdcf-4b1fab84a202 POST /test1 200 3.339 ms"}
+{"level":"info","message":"54bc8c25-1133-41c7-ae25-99c39af2a7a3 POST /test2 200 0.686 ms"}
+{"level":"info","message":"3a0b5a71-166a-4a50-89e5-c5465858988f POST /publish/topic1 400 26.439 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"3c311211-7394-460a-870b-4d2b459b8537 POST /subscribe/topic1 201 10.170 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"7a2fad25-903b-4c9f-b7f0-15e8979790c8 POST /publish/topic1 200 3.828 ms"}
+{"level":"info","message":"84fe1680-ba5f-4f4a-9105-26edfd68fa7c POST /subscribe/topic1 201 8.225 ms"}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"0ffaff3e-ef00-4f42-ba11-0c02f7a9344c POST /test2 500 3.788 ms"}
+{"level":"info","message":"deb176b5-ee3c-4d46-95c7-aad24798cabc POST /publish/topic1 400 19.577 ms"}
+{"level":"info","message":"4115200c-7bc5-4b57-a97e-dfe8b4f53471 POST /subscribe/topic1 201 0.827 ms"}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"5a829b2b-9ac2-4e76-be88-35c6544c1d62 POST /publish/topic1 400 5.012 ms"}
+{"level":"info","message":"3173a0a3-8d18-449f-bf3f-b4c4e2924cda POST /test2 500 1.400 ms"}
+{"level":"error","message":"An Error occured"}
+{"level":"info","message":"c1800d78-f62c-4444-ab1d-70b124948124 POST /test2 500 1.632 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"15b15582-559e-4e99-9f81-6f6952ecab16 POST /subscribe/topic1 201 11.224 ms"}
+{"level":"info","message":"df13a30e-3717-41d5-8bcd-7b82c84a129d POST /test2 200 3.250 ms"}
+{"level":"info","message":"0ab6c4bd-7c70-4953-b50d-2eda6ead548f POST /publish/topic1 400 23.824 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"3672495e-9713-4cda-82bc-f6b310ef31eb POST /subscribe/topic1 201 9.553 ms"}
+{"level":"info","message":"b4c04617-b56f-4d06-b653-5b5fadeab4ca POST /test2 200 2.738 ms"}
+{"level":"info","message":"a55987e3-f881-4484-b507-2ddf41d5f3f2 POST /publish/topic1 400 20.901 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"797182b2-692c-479e-9d17-5ca3c0b93d85 POST /subscribe/topic1 201 9.799 ms"}
+{"level":"info","message":"31edcaeb-aafe-46df-948f-bc9dbbc66ff6 POST /test2 200 3.224 ms"}
+{"level":"info","message":"e3d17c85-d790-4362-9819-29e48fcaf850 POST /publish/topic1 400 21.802 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"0562cc9d-5b82-4312-b4c3-93ebe6d308c5 POST /subscribe/topic1 201 9.550 ms"}
+{"level":"info","message":"1e9ea828-02a0-4308-922a-e140a7b67610 POST /test2 200 2.791 ms"}
+{"level":"info","message":"bed308ad-d168-430a-9ffe-9da22151d003 POST /publish/topic1 400 22.737 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"36297ddd-ae8d-47b6-add6-eb3a4b2a5e1d POST /subscribe/topic1 201 9.736 ms"}
+{"level":"info","message":"e89d5585-4013-429d-906a-eaf94035b548 POST /test2 200 3.120 ms"}
+{"level":"info","message":"6ea909a5-80b1-4863-8ce5-6811286b4074 POST /publish/topic1 400 23.317 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"9869af10-455c-4df7-a975-ed93a3bb5402 POST /subscribe/topic1 201 9.628 ms"}
+{"level":"info","message":"0d4fe32b-2c2d-4bb6-bd3a-4fed3e7f8983 POST /test2 200 2.647 ms"}
+{"level":"info","message":"c0224eef-1254-421f-853a-e1e42cd48bd5 POST /publish/topic1 400 21.056 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"23533526-bd58-4288-923d-325d6b274e6b POST /subscribe/topic1 201 9.248 ms"}
+{"level":"info","message":"ed2cd666-ea2b-41c4-b0e1-d487f664cc41 POST /test2 200 2.718 ms"}
+{"level":"info","message":"1ff0943e-b367-4c6f-b564-f70ac733e0b0 POST /publish/topic1 400 21.224 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"629c5271-e63f-4379-818e-edd0817d0cdf POST /subscribe/topic1 201 10.094 ms"}
+{"level":"info","message":"96cf079b-1ad0-4873-a368-720d66067dec POST /test2 200 10.214 ms"}
+{"level":"info","message":"2ffc4aad-c18e-4af7-a53b-2bb0da401640 POST /publish/topic1 400 28.758 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"5b8c68f2-aba1-4938-868e-692d7ab56fff POST /subscribe/topic1 201 10.109 ms"}
+{"level":"info","message":"b6f817f8-0be7-4d76-b264-28367c89fa44 POST /test2 200 10.056 ms"}
+{"level":"info","message":"03e1e776-7456-4ade-8b0d-6d0cc1277ebb POST /publish/topic1 400 28.436 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"8b7fe89c-08dd-443d-a5ec-383fab298f95 POST /subscribe/topic1 201 9.926 ms"}
+{"level":"info","message":"9bc9f5c9-74be-4d17-9df9-d4ccfd7c1e03 POST /publish/topic1 200 2.274 ms"}
+{"level":"info","message":"2d4dfb4c-8366-4f96-972e-5e85d6b63e14 POST /publish/topic1 200 1.580 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"8820328c-c311-4dff-9c88-5f05edabe841 POST /subscribe/topic1 201 9.831 ms"}
+{"level":"info","message":"ec49349a-4223-4264-a0a8-1ed88612cffd POST /publish/topic1 200 2.901 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"04038b1f-0547-4eee-893c-7418f4fddff4 POST /subscribe/topic1 201 11.115 ms"}
+{"level":"info","message":"2f95043e-307d-4ef4-b7c6-11d9407119c2 POST /test2 200 9.988 ms"}
+{"level":"info","message":"043f947c-5f38-4c2a-8e10-a9bf3ec883f5 POST /publish/topic1 400 31.396 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"61ff936e-1458-421e-a636-6e5094c4f4dc POST /subscribe/topic1 201 9.873 ms"}
+{"level":"info","message":"bb06d1cd-6600-4fc9-816e-61c55fa741a7 POST /test2 200 9.951 ms"}
+{"level":"info","message":"6b70a1f7-9110-49ea-8ac1-d58a8bfdc305 POST /publish/topic1 400 29.587 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"234b04fe-a4c8-47bb-93ae-c311367723af POST /subscribe/topic1 201 11.671 ms"}
+{"level":"info","message":"7c5b81e1-b80d-46d9-b26b-82cebfb0dff8 POST /test2 200 2.719 ms"}
+{"level":"info","message":"4fa34534-15f1-44e6-aee4-6aa12ff0893c POST /publish/topic1 400 23.103 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"324e1b02-ac94-4b9b-a36b-61bbddfbea24 POST /subscribe/topic1 201 10.447 ms"}
+{"level":"info","message":"02fb002c-8e81-4409-a293-36206f37af35 POST /test2 200 2.658 ms"}
+{"level":"info","message":"03c84a24-26ef-4008-8b7e-29f68afd9e92 POST /publish/topic1 400 22.378 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"2f0476ff-1620-4bd5-bd55-b5eba8eb612e POST /subscribe/topic1 201 15.944 ms"}
+{"level":"info","message":"ba4a6d0d-520a-4cbf-88f2-b9b9bfe95ac7 POST /test2 200 2.878 ms"}
+{"level":"info","message":"daeb2949-44a0-4a9b-a4de-1920b0181fa6 POST /publish/topic1 200 23.570 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"bff78c63-5674-4e5f-a630-c56187523830 POST /subscribe/topic1 201 10.672 ms"}
+{"level":"info","message":"124916f6-8a3d-4079-8410-9177d11bf81e POST /test2 200 3.687 ms"}
+{"level":"info","message":"c02181bd-7e21-44fa-bca0-a1a6f8e711d9 POST /publish/topic1 400 30.781 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"375a6497-5cf0-492b-a6aa-e7887d595ec0 POST /subscribe/topic1 201 10.162 ms"}
+{"level":"info","message":"157e9555-7699-4cb6-9db1-f3068fec991a POST /test2 200 2.896 ms"}
+{"level":"info","message":"f519c8d1-0a6e-437f-bf6e-0a9d4b18404b POST /publish/topic1 200 20.936 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"a2b59a42-422b-43d0-a50a-e4ca02dd3b45 POST /subscribe/topic1 201 10.642 ms"}
+{"level":"info","message":"e2b3d5f0-4b35-40d0-b3bb-71d512a3f005 POST /test2 200 10.122 ms"}
+{"level":"info","message":"83b39b8f-4a88-4f3d-9443-11ed7ecc8b29 POST /publish/topic1 200 27.913 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"728f8f9c-8e2e-4a58-ac15-d87e8d550d8e POST /subscribe/topic1 201 10.420 ms"}
+{"level":"info","message":"738f8ac1-5238-4e56-8292-46793c3fbbb3 POST /test2 200 9.916 ms"}
+{"level":"info","message":"1a79465c-b6db-4ad5-95c6-adb4d4627418 POST /publish/topic1 200 25.841 ms"}
+{"level":"info","message":"Subscriber Server Is Listening On: 9000. "}
+{"level":"info","message":"Publisher Server Is Listening On: 8000. "}
+{"level":"info","message":"7d923620-ff23-4827-9053-458b56ceacbf POST /subscribe/topic1 201 10.883 ms"}
+{"level":"info","message":"508ac77a-933d-4915-82a7-d2ad27dec090 POST /test2 200 10.834 ms"}
+{"level":"info","message":"7b22f7d7-672e-454c-9c31-87f54595a660 POST /publish/topic1 200 28.199 ms"}
+{"level":"info","message":"3350ce9e-d570-4ae0-b8bf-9637a7ad253a POST /subscribe/topic1 201 0.836 ms"}
+{"level":"info","message":"a6477df2-d4db-4ad8-a39f-45b6d1cb6a43 POST /test2 200 1.059 ms"}
+{"level":"info","message":"7daccf66-a1a6-496f-8e61-3c8255eb05fc POST /test1 200 0.888 ms"}
+{"level":"info","message":"d766cab3-483c-4f50-8eac-284554c9ce1a POST /publish/topic1 200 8.286 ms"}
