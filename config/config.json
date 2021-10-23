@@ -5,5 +5,12 @@
       "LOG_LEVEL": "silly",
       "USE_HTTPS": false,
       "KEY_PATH": ""
-  }
+  },
+  "local_test" : {
+    "PUBLISHER_URL": "http://localhost:8000/",
+    "SUBSCRIBER_URL": "http://localhost:9000/",
+    "LOG_LEVEL": "silly",
+    "USE_HTTPS": false,
+    "KEY_PATH": ""
+}
 }

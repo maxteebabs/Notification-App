@@ -1,11 +1,22 @@
+
 ## HOW TO INSTALL THIS APPLICATION
 ``` RUN
 npm install
+```
+### Grant permission to bash file
+```
+sudo chmod -R 755 ./start-server.sh
+sudo chmod -R 755 ./test.sh
 ```
 
 ## HOW TO START THIS APPLICATION
 ``` RUN
   ./start-server.sh
+```
+
+## HOW TO RUN INTEGRATION TEST
+``` RUN
+./test.sh
 ```
 
 ## How to test on postman
