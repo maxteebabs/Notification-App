@@ -1,3 +1,17 @@
+# Notification App API
+
+This API consists of both the publisher server and the subscriber server
+
+# DEVELOPMENT SETUP
+Install NVM to isolate your node version https://github.com/creationix/nvm
+
+After you have NVM installed set it to a minimum of 16:
+
+`nvm use v16.3.0`
+
+You can set your default nvm by:
+
+`nvm alias default v16.3.0`
 
 ## HOW TO INSTALL THIS APPLICATION
 ``` RUN

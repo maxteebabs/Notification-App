@@ -1,5 +1,5 @@
 {
-  "name": "subscriber",
+  "name": "NotificationApp",
   "version": "1.0.0",
   "description": "Subscription servers will get notified by the publisher server when there is a new topic available",
   "main": "server.js",
